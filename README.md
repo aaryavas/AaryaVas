@@ -1,6 +1,6 @@
 # Aarya Vasantlal 👨🏽‍💻
 
-**'Student, Aspiring Developer and Creator'**
+**`'Student, Aspiring Developer and Creator`**
 
 I am a Computer Science and Engineering student at the University of Connecticut, passionate about technology and artificial intelligence. My journey in tech started early, from repairing devices to building computers, and has evolved into a deep interest in AI and machine learning.
 
