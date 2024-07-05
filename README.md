@@ -1,16 +1,18 @@
-## Hi there 👋
+# Aarya Vasantlal 👨🏽‍💻
 
-<!--
-**aaryavas/AaryaVas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Student, Aspiring Developer and Creator'**
 
-Here are some ideas to get you started:
+I am a Computer Science and Engineering student at the University of Connecticut, passionate about technology and artificial intelligence. My journey in tech started early, from repairing devices to building computers, and has evolved into a deep interest in AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-vasantlal/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
+<br>
+
+### Projects 🛠️
+
+- Sentiment Analysis with RoBERTa Transformer 😡😐😁
+- Neural Network from scatch 🧠
+- Text Archiver 📝
+- Hackintoch 🖥️
+
+
