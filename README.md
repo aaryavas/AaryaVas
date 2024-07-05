@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Aarya Vasantlal" /></a>
+</p>
+
+
 <h1 align="center">Aarya Vasantlal 👨🏽‍💻</h1>
 <h3 align="center">Student, Aspiring Developer and Creator</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
