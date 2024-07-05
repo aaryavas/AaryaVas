@@ -7,7 +7,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-vasantlal/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
 <br>
-- Currently Working for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
+Currently Working for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
 
 ### Projects 🛠️
 
