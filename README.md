@@ -16,7 +16,7 @@ Currently Working for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨�
 - Text Archiver 📝
 - Hackintoch 🖥️
 
-### Outside Achievements
+### Outside Achievements 🎒
 - **HackUCONN** Crowd Favorite
 
 ### Technologies 📱
