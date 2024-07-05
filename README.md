@@ -17,7 +17,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 - Hackintoch 🖥️
 
 ### Outside Achievements
-**HackUCONN** Crowd Favorite
+- **HackUCONN** Crowd Favorite
 
 ### Technologies 📱
 
