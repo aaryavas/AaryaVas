@@ -17,7 +17,7 @@ Currently Working for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨�
 - Hackintoch 🖥️
 
 ### Outside Achievements 🎒
-- **HackUCONN** Crowd Favorite
+- **HackUCONN Hackathon** Crowd Favorite
 
 ### Technologies 📱
 <div style="display:flex">
