@@ -15,6 +15,7 @@ Worked for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
 - Neural Network from scatch 🧠
 - Text Archiver 📝
 - Hackintoch 🖥️
+- Personal Website Portfolio (in progress) ⚒️
 
 ### Outside Achievements 🎒
 - **HackUCONN Hackathon** Crowd Favorite
