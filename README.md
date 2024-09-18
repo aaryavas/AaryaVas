@@ -8,6 +8,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
 <br>
 **Currently doing undergraduate research at the University of Connecticut**
+
 Worked for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
 
 ### Projects 🛠️
