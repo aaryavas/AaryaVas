@@ -9,7 +9,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 <br>
 **Currently doing undergraduate research at the University of Connecticut**
 
-Worked for **Scale AI** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
+Worked for **Outlier** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
 
 ### Projects 🛠️
 
