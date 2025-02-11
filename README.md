@@ -7,7 +7,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-vasantlal/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
 <br>
-**Currently doing undergraduate research at the University of Connecticut**
+**Currently doing undergraduate research at the University of Connecticut AND Full Stack Engineering @Visceral**
 
 Worked for **Outlier** as an **AI RLHF Mathematics Trainer** 👨🏽‍🔬
 
