@@ -7,10 +7,10 @@ I am a Computer Science and Engineering student at the University of Connecticut
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-vasantlal/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
 <br>
-**Currently doing:
+**Currently doing:**
 
 - Undergraduate ML research @ UCONN
 -  Full Stack Engineering @ Visceral AI
--   AI Tooling for Debugging Research as a NSF REU Fellow**
+-   AI Tooling for Debugging Research as a NSF REU Fellow
 
 
