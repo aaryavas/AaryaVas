@@ -11,6 +11,6 @@ I am a Computer Science and Engineering student at the University of Connecticut
 
 - Undergraduate ML research @ UCONN
 -  Full Stack Engineering @ Visceral AI
--   AI Tooling for Debugging Research as a NSF REU Fellow
+-   AI Agent Software Engineering Research as a NSF REU Fellow
 
 
