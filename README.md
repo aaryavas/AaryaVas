@@ -10,7 +10,7 @@ I am a Computer Science and Engineering student at the University of Connecticut
 **Currently doing:**
 
 - Undergraduate ML research @ UCONN
--  Full Stack Engineering @ Visceral AI
+-  AI Model Development @ Savant Systems
 -   AI Agent Software Engineering Research as a NSF REU Fellow
 
 
