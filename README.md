@@ -10,6 +10,6 @@ I am a Computer Science and Engineering student at the University of Connecticut
 **Currently doing:**
 
 -  AI Model Development @ Savant
--   AI & Deep Learning Research for Software Engineering at UConn
+-   LLMs & Deep Learning Research for Software Engineering at UConn
 
 
