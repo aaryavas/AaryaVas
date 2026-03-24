@@ -2,14 +2,13 @@
 <h3 align="center">Student, Aspiring Developer and Creator</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a Computer Science and Engineering student at the University of Connecticut, passionate about technology and learning. My journey in tech started early, from repairing devices to building computers, and has evolved into a deep interest in AI, machine learning and software engineering
+I am a Computer Science and Engineering student at the University of Connecticut, passionate about technology and learning. My journey in tech started early, from repairing devices to building computers, and has evolved into a deep interest in AI, machine learning and software engineering. Currently exploring research in Agentic Systems and the risk/safety of modern LLM based systems.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-vasantlal/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.vasantlal@uconn.edu)
 <br>
 **Currently doing:**
 
--  AI Model Development @ Savant
--   LLMs & Deep Learning Research for Software Engineering at UConn
-
+-   AI for SWE Research at UConn
+- Incoming AI Research Scientist @ Lockheed Martin
 
