@@ -10,5 +10,4 @@ I am a Computer Science and Engineering student at the University of Connecticut
 **Currently doing:**
 
 -   AI for SWE Research at UConn
-- Incoming AI Research Scientist @ Lockheed Martin
 
