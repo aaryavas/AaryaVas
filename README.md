@@ -3,6 +3,6 @@
 
 **Now:**
 
--   AI for SWE Research at UConn
 -   Incoming AI/ML Researcher at Lockheed Martin
+-   Exploring AI Safety Work related to mech interp and alignment
 
