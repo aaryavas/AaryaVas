@@ -3,6 +3,6 @@
 
 **Now:**
 
--   Incoming AI/ML Researcher at Lockheed Martin
+-   AI/ML Researcher at Lockheed Martin
 -   Exploring AI Safety Work related to mech interp and alignment
-
+-   Aiming to contribute to the science of making AI safer and more awesome for humanity :)
